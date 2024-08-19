@@ -33,4 +33,5 @@ This is a project report that summarizes employee statistics (wellness, age, dis
 
 ### Results
 
+![Web scrape](https://github.com/user-attachments/assets/1025483c-8022-4bfe-8b9d-f825c99b3da5)
 
