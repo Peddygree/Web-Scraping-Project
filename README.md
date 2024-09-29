@@ -10,7 +10,7 @@ A list of the largest companies in the united states by revenue. This data was s
 
 ### Project Overview
 
-This is a project report that summarizes employee statistics (wellness, age, distance from home...), providing insight into workforce and diversity. 4 Turnover analysis (with dynamic visuals) were made to provide insight into employee attrition to aid in workforce managemant and retention strategies, offering critical insights for effective HR stratgies and effective decision making. 
+A list of the largest companies in the united states by revenue. This data was scraped off wikipedia and saved into a CSV file for perusal 
 
 ### Data Source
 - Wikipedia.
