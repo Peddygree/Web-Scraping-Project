@@ -1,5 +1,5 @@
 # Web-Scraping Project
-A list of the largest companies in the united states by revenue. This data was scraped off wikipedia and saved into a CSV file for perusal 
+
 
 ### Table of Contents
 - [Data Source](#data-source)
